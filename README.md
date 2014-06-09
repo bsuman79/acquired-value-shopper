@@ -1,4 +1,4 @@
 acquired-value-shopper
 ======================
 
-kaggle competition
+kaggle competition on going
